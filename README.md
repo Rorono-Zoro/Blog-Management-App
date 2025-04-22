@@ -4,5 +4,5 @@ Bu proje, `https://dummyjson.com` API'si kullanılarak **Next.js** ve **TypeScri
 
 Özellikler
 1)Blog yazılarını listeleme ve okuma.
-2)Admin girişiyle blog yazılarını **silme ve güncelleme*.
+2)Admin girişiyle blog yazılarını **silme ve güncelleme**.
 
